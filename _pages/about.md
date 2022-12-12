@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 This is Yanran Li's home on the web!
+
+Lorem ipsum.
