@@ -1,7 +1,7 @@
 ---
 title: "Yanran Li's current CV"
 collection: cv
-permalink: /files/CV_eecs.pdf
+permalink: /pages/cv.md
 paperurl: 'http://Lyric98.github.io/files/CV_eecs.pdf'
 ---
 
