@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-[Welcome to download my CV here](http://Lyric98.github.io/files/CV_eecs.pdf)
+[Welcome to download my CV here](https://lyric-o.github.io/old-WebSite-Lyric98.github.io/files/CV_eecs.pdf)
 
